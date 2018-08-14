@@ -4,4 +4,4 @@ var height = 35
 var message = ` is ${height} inches tall`
 
 module.exports = {name, height, message}
-console.log(name + height)
+console.log(name)
